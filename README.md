@@ -9,9 +9,9 @@ mauriciomorenovargas/mauriciomorenovargas is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
  Try
-``sh
+``
 Echo "Hello World"
 ``
 Exit
 
-Return to be
+Return to be...
